@@ -113,7 +113,7 @@ sections:
   label: i18n Translations
   create: all
   match: "**/*"
-upload_dir: exampleSite/static/images
+upload_dir: exampleSite/assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
